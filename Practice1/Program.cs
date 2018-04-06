@@ -13,22 +13,13 @@ namespace Practice1
         {
             Stack1 s = new Stack1();
 
-            s.Push(10);
-            s.Push(9);
-            s.Push(11);
-            s.Push(10);
-            s.Push(15);
-            s.Push(7);
-            s.Push(7);
-            s.Push(16);
-            s.Push(4);
             s.Push(1);
-            s.Push(33);
-            s.Push(5);
-            s.Pop();
-            s.Pop();
+            s.Push(-2);
+            s.Push(-5);
 
-            Console.WriteLine(s.Max());
+            int res = s.Max();
+
+            Console.WriteLine(res);
             Console.ReadLine();
 
             //Stopwatch s = Stopwatch.StartNew();

@@ -53,7 +53,7 @@ namespace Practice1
 
         public int Max ()
         {
-            if (maxUp.Peek() >= maxDown.Peek())
+            if (maxDown.Count == 0 || maxUp.Peek() >= maxDown.Peek())
                 return maxUp.Peek();
             return maxDown.Peek();
         }
