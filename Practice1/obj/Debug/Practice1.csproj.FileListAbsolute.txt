@@ -1,7 +1,0 @@
-F:\Programing\Application Microsoft Visual Studio\PracticeCS\Practice1\obj\Debug\Practice1.csprojResolveAssemblyReference.cache
-F:\Programing\Application Microsoft Visual Studio\PracticeCS\Practice1\obj\Debug\Practice1.csproj.CoreCompileInputs.cache
-F:\Programing\Application Microsoft Visual Studio\PracticeCS\Practice1\bin\Debug\Practice1.exe.config
-F:\Programing\Application Microsoft Visual Studio\PracticeCS\Practice1\bin\Debug\Practice1.exe
-F:\Programing\Application Microsoft Visual Studio\PracticeCS\Practice1\bin\Debug\Practice1.pdb
-F:\Programing\Application Microsoft Visual Studio\PracticeCS\Practice1\obj\Debug\Practice1.exe
-F:\Programing\Application Microsoft Visual Studio\PracticeCS\Practice1\obj\Debug\Practice1.pdb
