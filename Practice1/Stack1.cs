@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Practice1
 {
-    class Stack1
+    public class Stack1
     {
         Node anchor;
         Stack<int> maxUp;
