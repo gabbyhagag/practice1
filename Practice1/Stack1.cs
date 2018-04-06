@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Practice1
 {
@@ -17,15 +14,6 @@ namespace Practice1
             anchor = new Node(123);
             maxUp = new Stack<int>();
             maxDown = new Stack<int>();
-        }
-
-        public bool IsEmpty()
-        {
-            if (anchor.Next == null)
-            {
-                return true;
-            }
-            return false;
         }
 
         public void Push(int item)
