@@ -22,5 +22,23 @@ namespace Practice1.tests
             //assert
             Assert.AreEqual(result, expected);
         }
+
+        [TestMethod]
+        public void TestMaxWithSmallerToMax()
+        {
+            //arrange
+            Stack1 stack = new Stack1();
+            int expected = 10;
+            int result;
+
+            //act
+            stack.Push(1);
+            stack.Push(2);
+            stack.Push(10);
+            result = stack.Max();
+
+            //assert
+            Assert.AreEqual(result, expected);
+        }
     }
 }
